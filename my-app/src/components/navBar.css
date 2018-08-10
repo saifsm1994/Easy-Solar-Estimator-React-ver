@@ -1,0 +1,15 @@
+
+
+.NavItem{
+    margin: 0 20px 0 10px;
+    font-weight: bold;
+}
+
+
+.NavItem:hover{
+    margin: 0 20px 0 10px;
+    font-weight: bold;
+    color: black;
+    background-color:darkslategrey;
+}
+

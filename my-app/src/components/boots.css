@@ -1,0 +1,36 @@
+
+
+.cardList{
+    color:black;
+    list-style-type: none;  
+    
+
+
+    }
+
+.Card{
+        display: flex;
+        justify-content: flex-start; /* center ul horizontally */
+        margin: 10px 0 10px 0;    
+    }
+
+ul> li{
+    text-align: left;        
+    margin-left: -25px;
+       }
+
+.cardList_Subtitle {
+    color: grey;
+    font-weight: bold;
+}
+
+.cardList_heading{
+    color: black;
+    font-weight: bold;
+}
+
+
+ .CardHeader{
+     font-weight:bold;
+     color:black;
+ }
