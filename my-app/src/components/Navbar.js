@@ -61,9 +61,6 @@ export default class Example extends React.Component {
                   <DropdownItem>
                     Change Locations (Alpha)
                   </DropdownItem>
-                  <DropdownItem>
-                    Cost Calculations
-                  </DropdownItem>
                   <DropdownItem divider />
                   <DropdownItem onClick={clearStorage}>
                     Reset Data
