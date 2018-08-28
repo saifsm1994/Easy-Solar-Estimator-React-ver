@@ -55,10 +55,10 @@ export default class Example extends React.Component {
                   Other features / Settings
                 </DropdownToggle>
                 <DropdownMenu right>
-                  <DropdownItem>
+                  <DropdownItem href="http://old.easysolarestimator.site/compare2Locations.html">
                     Compare 2 Locations (Alpha)
                   </DropdownItem>
-                  <DropdownItem>
+                  <DropdownItem href="http://old.easysolarestimator.site/homePageCustomLocation.html">
                     Change Locations (Alpha)
                   </DropdownItem>
                   <DropdownItem divider />
